@@ -1,0 +1,4 @@
+gunicorn==21.2.0
+uvicorn==0.23.2
+rq==1.15.1
+requests==2.31.0
